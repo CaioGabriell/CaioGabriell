@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Caio Gariel</h1>
+<h1 align="center">Hi 👋, I'm Caio Gabriel</h1>
 <h3 align="center">A programming student from brazil ,Computer Sciencie Major at the UNIFOR (University of Fortaleza)</h3>
 <img align="right" alt="Coding" width="350" src="https://o.remove.bg/downloads/3aef17e7-82d8-4788-bf0c-fb3a1b8370f3/20HASBULLA-mediumSquareAt3X-removebg-preview.png">
 
