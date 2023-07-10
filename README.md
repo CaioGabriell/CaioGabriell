@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Gabriel</h1>
 <h3 align="center">A programming student from brazil ,Computer Sciencie Major at the UNIFOR (University of Fortaleza)</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png">
+<img align="right" alt="Coding" width="250" src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png">
 
 - 📫 How to reach me **caiogabriel30gc@gmail.com**
 
