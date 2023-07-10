@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Gariel</h1>
 <h3 align="center">A programming student from brazil ,Computer Sciencie Major at the UNIFOR (University of Fortaleza)</h3>
-<img align="right" alt="Coding" width="250" src="https://static01.nyt.com/images/2023/04/20/fashion/20HASBULLA/20HASBULLA-mediumSquareAt3X.jpg">
+<img align="right" alt="Coding" width="250" src="[https://static01.nyt.com/images/2023/04/20/fashion/20HASBULLA/20HASBULLA-mediumSquareAt3X.jpg](https://o.remove.bg/downloads/3aef17e7-82d8-4788-bf0c-fb3a1b8370f3/20HASBULLA-mediumSquareAt3X-removebg-preview.png)">
+
 - 📫 How to reach me **caiogabriel30gc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
